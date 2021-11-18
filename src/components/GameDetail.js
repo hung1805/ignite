@@ -2,7 +2,7 @@ import React from 'react';
 
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
-import { smallImage } from '../util';
+import { smallImage } from '../../util';
 
 import styled from 'styled-components';
 import { motion } from 'framer-motion/dist/framer-motion';
